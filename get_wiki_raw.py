@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 from lxml import etree
-import wikitextparser as wtp
 import mwparserfromhell
 import codecs
 import csv
